@@ -4,6 +4,7 @@
 To design and implement a LangChain Expression Language (LCEL) expression that utilizes at least two prompt parameters and three key components (prompt, model, and output parser), and to evaluate its functionality by analyzing relevant examples of its application in real-world scenarios.
 
 ### PROBLEM STATEMENT:
+To create and test a LangChain expression that connects a prompt, model, and output parser, and works with different inputs. The goal is to check how well it performs in simple and real-life scenarios.
 
 ### DESIGN STEPS:
 
