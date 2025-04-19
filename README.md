@@ -8,10 +8,19 @@ To design and implement a LangChain Expression Language (LCEL) expression that u
 ### DESIGN STEPS:
 
 #### STEP 1:
+Import required libraries and add the API key for OPENAI.
 
-#### STEP 2:
+### STEP 2:
+Choose the components: a prompt, a model, and an output parser.
 
-#### STEP 3:
+### STEP 3:
+Create a simple or complex chain using these components.
+
+#### STEP 4:
+Provide input values and run the chain.
+
+### STEP 5: 
+Print the output.
 
 ### PROGRAM:
 
